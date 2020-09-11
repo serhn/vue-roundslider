@@ -1,6 +1,10 @@
-# vue-кщгтвыдшвук
+# vue-roundslider
 
 Round slider (can call as Circle slider or Knob slider) component allows the user to select a value or range of values through a circular dial.
+
+## Demo
+
+![alt Image slider](assets/slider.png)
 
 ## How to install
 
